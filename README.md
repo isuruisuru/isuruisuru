@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruisuru&label=Profile%20views&color=0e75b6&style=flat" alt="isuruisuru" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kirihodi" target="blank"><img src="https://img.shields.io/twitter/follow/kirihodi?logo=twitter&style=for-the-badge" alt="kirihodi" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/kirihodi" target="blank"><img src="https://img.shields.io/twitter/follow/kirihodi?logo=twitter&style=for-the-badge" alt="kirihodi" /></a> </p> -->
 
 - 🌱 I’m currently learning **Python, MySQL**
 
