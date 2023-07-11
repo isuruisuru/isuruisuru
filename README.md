@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/isuruisuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="isuruisuru" height="30" width="40" /></a>
-<a href="https://twitter.com/kirihodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirihodi" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/kirihodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirihodi" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/isurusenaratne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isurusenaratne" height="30" width="40" /></a>
 <a href="https://discord.gg/795212360801320980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="795212360801320980" height="30" width="40" /></a>
 </p>
