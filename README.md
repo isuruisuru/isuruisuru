@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, MySQL**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React, Spring Boot, Postgres, **
+- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React, Spring Boot, Postgres**
 
 - 📫 How to reach me **chamodisuru@gmail.com**
 
