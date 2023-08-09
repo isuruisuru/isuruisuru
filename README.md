@@ -100,9 +100,9 @@
 </p>
 
 <div style="display: flex;">
-  <div style="flex: 50%; width: fit-content;">
+<!--   <div style="flex: 50%; width: fit-content;">
     <img src="https://github-readme-stats.vercel.app/api?username=isuruisuru&show_icons=true&locale=en" alt="isuruisuru" />
-  </div>
+  </div> -->
 
   <div style="flex: 50%; width: fit-content;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuruisuru&" alt="isuruisuru" />
