@@ -103,18 +103,31 @@
   </a> 
 </p>
 
-<div style="display: flex;">
-<!--   <div style="flex: 50%; width: fit-content;">
-    <img src="https://github-readme-stats.vercel.app/api?username=isuruisuru&show_icons=true&locale=en" alt="isuruisuru" />
-  </div> -->
-
-  <div style="flex: 50%; width: fit-content;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuruisuru&" alt="isuruisuru" />
+<div style="
+  display: flex; 
+  flex-direction: column;
+  ">
+  
+  <div style="
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    ">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruisuru&" alt="isuruisuru"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp0ZHQ3eW8zOXE5NXoyanBnenV0bzY1c3U0cm5nemo4bXUydWh5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0amJzVHIAfl7jMDos/giphy.gif" height="195px"/>
   </div>
-</div><br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4" alt="isuruisuru" /></a> </p>
+  <div style="
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    ">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4" alt="isuruisuru" width="495px" /> </a>
+    <img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp0ZHQ3eW8zOXE5NXoyanBnenV0bzY1c3U0cm5nemo4bXUydWh5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0amJzVHIAfl7jMDos/giphy.gif" height="245px" width="234px"/>
+  </div>
+</div>
 
 <div>
-  <img src="https://i.imgur.com/1SUYqAk.gif"/>
+  <img src="https://media.tenor.com/KCsT6P2QQJUAAAAC/steve-carell-pew.gif" height="300px"/>
 </div>
