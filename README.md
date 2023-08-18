@@ -129,5 +129,5 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp0ZHQ3eW8zOXE5NXoyanBnen
 </div>
 
 <div>
-  <img src="https://media.tenor.com/KCsT6P2QQJUAAAAC/steve-carell-pew.gif" height="300px"/>
+  <img src="https://media.tenor.com/KCsT6P2QQJUAAAAC/steve-carell-pew.gif" height="300px" width="495px"/>
 </div>
