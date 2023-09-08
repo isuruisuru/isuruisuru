@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/kirihodi" target="blank"><img src="https://img.shields.io/twitter/follow/kirihodi?logo=twitter&style=for-the-badge" alt="kirihodi" /></a> </p> -->
 
-- 🌱 I’m currently learning **Spring Boot, Postgres, React**
+- 🌱 I’m currently learning **Spring Boot, Postgres, React, Flutter**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React, Spring Boot, Postgres**
 
